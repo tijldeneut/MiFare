@@ -1,6 +1,11 @@
 # MiFare RT
 A MiFare Classic library for Windows Phone 8.1, Windows Store 8.1 and Desktop apps
 
+## Tijl Deneut --
+Added two folders:
+- Binary-Compiled-By-Tijl: Features .NET pre-built application that should work on Windows without setup
+- mifclass_tools: Features C++ pre-built applications that should work on Windows without setup
+
 ## Hardware requirements
 
 ### Phone
